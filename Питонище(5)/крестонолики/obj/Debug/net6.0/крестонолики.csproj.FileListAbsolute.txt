@@ -1,0 +1,15 @@
+C:\Users\ГЕНИЙ\Desktop\С#задания\крестонолики\bin\Debug\net6.0\крестонолики.exe
+C:\Users\ГЕНИЙ\Desktop\С#задания\крестонолики\bin\Debug\net6.0\крестонолики.deps.json
+C:\Users\ГЕНИЙ\Desktop\С#задания\крестонолики\bin\Debug\net6.0\крестонолики.runtimeconfig.json
+C:\Users\ГЕНИЙ\Desktop\С#задания\крестонолики\bin\Debug\net6.0\крестонолики.dll
+C:\Users\ГЕНИЙ\Desktop\С#задания\крестонолики\bin\Debug\net6.0\крестонолики.pdb
+C:\Users\ГЕНИЙ\Desktop\С#задания\крестонолики\obj\Debug\net6.0\крестонолики.csproj.AssemblyReference.cache
+C:\Users\ГЕНИЙ\Desktop\С#задания\крестонолики\obj\Debug\net6.0\крестонолики.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ГЕНИЙ\Desktop\С#задания\крестонолики\obj\Debug\net6.0\крестонолики.AssemblyInfoInputs.cache
+C:\Users\ГЕНИЙ\Desktop\С#задания\крестонолики\obj\Debug\net6.0\крестонолики.AssemblyInfo.cs
+C:\Users\ГЕНИЙ\Desktop\С#задания\крестонолики\obj\Debug\net6.0\крестонолики.csproj.CoreCompileInputs.cache
+C:\Users\ГЕНИЙ\Desktop\С#задания\крестонолики\obj\Debug\net6.0\крестонолики.dll
+C:\Users\ГЕНИЙ\Desktop\С#задания\крестонолики\obj\Debug\net6.0\refint\крестонолики.dll
+C:\Users\ГЕНИЙ\Desktop\С#задания\крестонолики\obj\Debug\net6.0\крестонолики.pdb
+C:\Users\ГЕНИЙ\Desktop\С#задания\крестонолики\obj\Debug\net6.0\крестонолики.genruntimeconfig.cache
+C:\Users\ГЕНИЙ\Desktop\С#задания\крестонолики\obj\Debug\net6.0\ref\крестонолики.dll
